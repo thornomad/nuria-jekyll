@@ -1,5 +1,5 @@
 ---
-title: "Your dad's first post!"
+title: 
 excerpt: "You better write more posts so this one disappears"
 last_modified_at: 2020-11-11
 toc: true
