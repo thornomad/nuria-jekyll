@@ -37,3 +37,12 @@ You can test out your website changes before you save them to the internet.
 * Then inside the terminal change into the project directoy: `cd Coding/nuria-jekyll` (TIP: _you an hit tab to autocomplet the location)
 * Then you can start the server: `bundle exect jekyll serve`
 * After it's running, you can see your web page at: http://127.0.0.1:4000
+
+## Saving changes to the internet
+
+* When you are done make sure you save all your work
+* Then go to the "Source Control" area and use the `+` sign to _stage_ your changes
+* Once you _staged_ all your changes (you can do all or some) then you need to _commit_ those changes (that means really save them all on your computer)
+* After you have _committed_ them then you can _push_ them into the internet
+
+
